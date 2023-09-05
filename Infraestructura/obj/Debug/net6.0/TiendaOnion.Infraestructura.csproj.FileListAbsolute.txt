@@ -1,0 +1,17 @@
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\bin\Debug\net6.0\TiendaOnion.Infraestructura.deps.json
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\bin\Debug\net6.0\TiendaOnion.Infraestructura.dll
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\bin\Debug\net6.0\TiendaOnion.Infraestructura.pdb
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\bin\Debug\net6.0\TiendaOnion.Dominio.dll
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\bin\Debug\net6.0\TiendaOnion.Dominio.pdb
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Debug\net6.0\TiendaOnion.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Debug\net6.0\TiendaOnion.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Debug\net6.0\TiendaOnion.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Debug\net6.0\TiendaOnion.Infraestructura.AssemblyInfo.cs
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Debug\net6.0\TiendaOnion.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Debug\net6.0\TiendaOnion.Infraestructura.csproj.CopyComplete
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Debug\net6.0\TiendaOnion.Infraestructura.dll
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Debug\net6.0\refint\TiendaOnion.Infraestructura.dll
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Debug\net6.0\TiendaOnion.Infraestructura.pdb
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Debug\net6.0\ref\TiendaOnion.Infraestructura.dll
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\bin\Debug\net6.0\TiendaOnion.Infraestructura.runtimeconfig.json
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Debug\net6.0\TiendaOnion.Infraestructura.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\app\build\TiendaOnion.Infraestructura.deps.json
+C:\app\build\TiendaOnion.Infraestructura.runtimeconfig.json
+C:\app\build\TiendaOnion.Infraestructura.dll
+C:\app\build\TiendaOnion.Infraestructura.pdb
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Release\net6.0\TiendaOnion.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Release\net6.0\TiendaOnion.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Release\net6.0\TiendaOnion.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Release\net6.0\TiendaOnion.Infraestructura.AssemblyInfo.cs
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Release\net6.0\TiendaOnion.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Release\net6.0\TiendaOnion.Infraestructura.csproj.CopyComplete
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Release\net6.0\TiendaOnion.Infraestructura.dll
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Release\net6.0\refint\TiendaOnion.Infraestructura.dll
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Release\net6.0\TiendaOnion.Infraestructura.pdb
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Release\net6.0\TiendaOnion.Infraestructura.genruntimeconfig.cache
+C:\Users\norma\source\repos\TiendaOnion\Infraestructura\obj\Release\net6.0\ref\TiendaOnion.Infraestructura.dll

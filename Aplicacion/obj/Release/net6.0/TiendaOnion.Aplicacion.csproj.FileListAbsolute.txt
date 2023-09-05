@@ -1,0 +1,13 @@
+C:\app\build\TiendaOnion.Aplicacion.deps.json
+C:\app\build\TiendaOnion.Aplicacion.dll
+C:\app\build\TiendaOnion.Aplicacion.pdb
+C:\Users\norma\source\repos\TiendaOnion\Aplicacion\obj\Release\net6.0\TiendaOnion.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\norma\source\repos\TiendaOnion\Aplicacion\obj\Release\net6.0\TiendaOnion.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norma\source\repos\TiendaOnion\Aplicacion\obj\Release\net6.0\TiendaOnion.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\norma\source\repos\TiendaOnion\Aplicacion\obj\Release\net6.0\TiendaOnion.Aplicacion.AssemblyInfo.cs
+C:\Users\norma\source\repos\TiendaOnion\Aplicacion\obj\Release\net6.0\TiendaOnion.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\norma\source\repos\TiendaOnion\Aplicacion\obj\Release\net6.0\TiendaOnion.Aplicacion.csproj.CopyComplete
+C:\Users\norma\source\repos\TiendaOnion\Aplicacion\obj\Release\net6.0\TiendaOnion.Aplicacion.dll
+C:\Users\norma\source\repos\TiendaOnion\Aplicacion\obj\Release\net6.0\refint\TiendaOnion.Aplicacion.dll
+C:\Users\norma\source\repos\TiendaOnion\Aplicacion\obj\Release\net6.0\TiendaOnion.Aplicacion.pdb
+C:\Users\norma\source\repos\TiendaOnion\Aplicacion\obj\Release\net6.0\ref\TiendaOnion.Aplicacion.dll

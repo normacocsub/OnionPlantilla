@@ -1,0 +1,14 @@
+C:\Users\norma\source\repos\TiendaOnion\Dominio\bin\Debug\net6.0\TiendaOnion.Dominio.deps.json
+C:\Users\norma\source\repos\TiendaOnion\Dominio\bin\Debug\net6.0\TiendaOnion.Dominio.runtimeconfig.json
+C:\Users\norma\source\repos\TiendaOnion\Dominio\bin\Debug\net6.0\TiendaOnion.Dominio.dll
+C:\Users\norma\source\repos\TiendaOnion\Dominio\bin\Debug\net6.0\TiendaOnion.Dominio.pdb
+C:\Users\norma\source\repos\TiendaOnion\Dominio\obj\Debug\net6.0\TiendaOnion.Dominio.csproj.AssemblyReference.cache
+C:\Users\norma\source\repos\TiendaOnion\Dominio\obj\Debug\net6.0\TiendaOnion.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norma\source\repos\TiendaOnion\Dominio\obj\Debug\net6.0\TiendaOnion.Dominio.AssemblyInfoInputs.cache
+C:\Users\norma\source\repos\TiendaOnion\Dominio\obj\Debug\net6.0\TiendaOnion.Dominio.AssemblyInfo.cs
+C:\Users\norma\source\repos\TiendaOnion\Dominio\obj\Debug\net6.0\TiendaOnion.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\norma\source\repos\TiendaOnion\Dominio\obj\Debug\net6.0\TiendaOnion.Dominio.dll
+C:\Users\norma\source\repos\TiendaOnion\Dominio\obj\Debug\net6.0\refint\TiendaOnion.Dominio.dll
+C:\Users\norma\source\repos\TiendaOnion\Dominio\obj\Debug\net6.0\TiendaOnion.Dominio.pdb
+C:\Users\norma\source\repos\TiendaOnion\Dominio\obj\Debug\net6.0\TiendaOnion.Dominio.genruntimeconfig.cache
+C:\Users\norma\source\repos\TiendaOnion\Dominio\obj\Debug\net6.0\ref\TiendaOnion.Dominio.dll
